@@ -1,4 +1,4 @@
-# Crashh
+# Square
 Basic Crash Methods For Lua Script Engine of 2TAKE1
 
 Current Version: v1.2.0
